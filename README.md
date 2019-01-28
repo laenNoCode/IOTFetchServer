@@ -3,7 +3,7 @@ IOT fetch server is a new multilingual IOT fetch and post server.
 it is not currently deployed in this repo.
 How is it meant to work :
 ## step 1)choose your server base
-switch to your language branch and follow the start instruction (will probably be make databaseType)
+switch to your language branch and follow the start instruction (will probably be "make databaseType")
 ## step 2)add data
 fetch your new server on ip/addData with a post method and the field you want to send
 fetch localhost/addData with 
